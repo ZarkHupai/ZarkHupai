@@ -4,7 +4,7 @@
 ## 沪牌辅助软件试用
 1 通过官网百度云盘下载
 
-2 github发布版本下载
+2 通过github项目release页面下载最新版本
 
 ## 官网
 https://zarkhupai.wordpress.com/
